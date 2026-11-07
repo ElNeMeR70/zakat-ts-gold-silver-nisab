@@ -1,0 +1,11 @@
+{
+  "name": "zakat-ts-gold-silver-nisab",
+  "version": "1.0.0",
+  "description": "Multi-Karat Gold (85g 24K) & Silver (595g) Nisab Zakat Engine (حاسبة نصاب الذهب والفضة والأوراق النقدية بالعيارات)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
